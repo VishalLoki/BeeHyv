@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "686093658158",
+    "project_id": "beehyv-9484b",
+    "storage_bucket": "beehyv-9484b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686093658158:android:8233ad17cd4147391657bf",
+        "android_client_info": {
+          "package_name": "com.vishy.beehyv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686093658158-leolanip94ihuiivjhaks72jdm4k8mdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishy.beehyv",
+            "certificate_hash": "86a71c84631c20704073d86221e5f98500180203"
+          }
+        },
+        {
+          "client_id": "686093658158-gpfo3gi208e81flt98lv3elbmn10bo89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGpG7_e8AoROG4vce42Dwhj-tz3pvt8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686093658158-gpfo3gi208e81flt98lv3elbmn10bo89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686093658158-br6qfsdj0e2b6labn6jc4b4o6gmcnnpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vishy.beehyv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
